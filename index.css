@@ -1,0 +1,79 @@
+h1{
+    background-color: beige;
+}
+.mb-3s{
+    margin: 5px;
+    padding: 5px 0px 5px 0px;
+}
+
+.first{
+    display: inline-block;
+}
+
+.last{
+    display: inline-block;
+}
+
+.checked {
+    color: orange;
+  }
+
+  .purchase{
+    background-color: rgb(228, 221, 221);
+    width: 5%;
+    height: 10%;
+    text-align: center;
+    
+  }
+
+  .service{
+    background-color: white;
+    width: 5%;
+    height: 10%;
+    text-align: center;
+  }
+
+  .overall{
+    background-color: rgb(228, 221, 221);
+    width: 5%;
+    height: 10%;
+    text-align: center;
+  }
+
+  .buy{
+    background-color: rgb(228, 221, 221);
+    width: 10%;
+    height: 10%;
+    text-wrap: nowrap;
+    text-align: center;
+  }
+.recommend  
+{
+    background-color: white;
+    width: 10%;
+    height: 10%;
+    text-wrap: nowrap;
+    text-align: center;
+  }
+
+
+  .company{
+    background-color: rgb(228, 221, 221);
+    text-align: center;
+    width: 10%;
+    height: 10%;
+    text-wrap: nowrap;
+  }
+
+  *{
+    margin-top: 10px;
+    padding: 2px 5px 2px 5px ;
+  }
+
+  .first{
+    padding-left: 5%;
+  }
+
+  .last{
+    padding-left: 9.5%;
+  }
